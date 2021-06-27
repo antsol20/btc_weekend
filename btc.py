@@ -25,7 +25,6 @@ for i in range(rows):
         prices.append(pair.copy())
 
 
-
 cash = 100
 
 for item in prices:
