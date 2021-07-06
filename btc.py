@@ -43,4 +43,4 @@ for item in prices:
     cash = cash * (item[1]/item[0])
     print(f"End Cash {cash:.4f}")
 
-print(f"Total Return : cd {cash:.4f}")
+print(f"Total Return: {cash:.4f}")
